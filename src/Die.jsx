@@ -1,3 +1,4 @@
+
 import React from "react";
 
 
@@ -7,7 +8,7 @@ function Die(props){
       background : props.held  ? "#37db21" : "#fff"
      }
    return (
-    <div style = {styles} className="die">
+    <div style = {styles} onClick = {props.holdDice} className="die">
     <h1>{props.value}</h1>
    </div>
    )

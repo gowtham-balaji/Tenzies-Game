@@ -46,7 +46,7 @@ main{
 
 .btn{
     width: 100px;
-    height: 40px;
+    height: 50px;
     margin-left:150px;
     margin-top: 30px;
     background-color: #1c8c94;;
@@ -59,3 +59,22 @@ main{
     box-shadow: inset 5px 5px 10px -3px rgba(0, 0, 0, 0.7);
 }
 
+.header{
+    display: flex;
+    justify-content: center;
+  
+}
+
+p{
+    width: 400px;
+    letter-spacing: 1px;
+    display: flex;
+    margin: 20px;
+    font-weight: 600;
+}
+
+.confetti{
+    width: 100%;
+}
+
+ 
