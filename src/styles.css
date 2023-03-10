@@ -80,7 +80,7 @@ p {
 }
 
 
-@media only screen and (min-width :320px){
+@media only screen and (max-width :360px){
 
 
 
@@ -124,7 +124,7 @@ p {
 
     .instructions{
     text-align: center;
-    width:150px;
+    width:300px;
     }
 
 }
