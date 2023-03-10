@@ -98,8 +98,8 @@ p {
     main {
      justify-content: center;
      align-items: center;
-     width: 300px;
-     height: 300px;
+     width: 200px;
+     height: 250px;
     }
     
     
@@ -124,6 +124,7 @@ p {
 
     .instructions{
     text-align: center;
+    width:200px
   
     }
 
