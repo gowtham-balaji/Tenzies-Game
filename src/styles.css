@@ -80,7 +80,7 @@ p {
 }
 
 
-@media (max-width:345px) {
+@media only screen and (max-width :320px){
 
 
 
